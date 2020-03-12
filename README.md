@@ -4,13 +4,12 @@ An app which identifies dog&#x27;s breed.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+1- this project depends on https://github.com/faizankarim/dog_classification_webapp
 
-A few resources to get you started if this is your first Flutter project:
+2- clone and deploy https://github.com/faizankarim/dog_classification_webapp
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+3- change this line according to your sever address https://github.com/faizankarim/dog_classification_flutter_app/blob/999f8ad1cd04d6a3b7185d32cc59f9f66beb0723/lib/main.dart#L38
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+4- build flutter project
+
+5- enjoy
